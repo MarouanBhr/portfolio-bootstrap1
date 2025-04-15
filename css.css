@@ -1,5 +1,5 @@
 .bg-image {
-    background-image: url('../exam/img/ChatGPT\ Image\ 10\ avr.\ 2025\,\ 21_43_03.png');
+    background-image: url('img/ChatGPT\ Image\ 10\ avr.\ 2025\,\ 21_43_03.png');
     background-size: cover;
     background-position: center;
     height: 100vh; /* Ajuste la hauteur selon tes besoins */
@@ -7,7 +7,7 @@
   }
 
   .text-background {
-    background-color: rgb(106, 116, 98); /* Arrière-plan clair avec 80% de transparence */
+    background-color: rgb(153, 163, 142); /* Arrière-plan clair avec 80% de transparence */
     border-radius: 10px; /* Bordures arrondies pour un effet plus doux */
 }
 
