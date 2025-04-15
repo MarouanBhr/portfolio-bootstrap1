@@ -1,0 +1,28 @@
+.bg-image {
+    background-image: url('../exam/img/ChatGPT\ Image\ 10\ avr.\ 2025\,\ 21_43_03.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Ajuste la hauteur selon tes besoins */
+
+  }
+
+  .text-background {
+    background-color: rgb(106, 116, 98); /* Arrière-plan clair avec 80% de transparence */
+    border-radius: 10px; /* Bordures arrondies pour un effet plus doux */
+}
+
+.icon-size {
+  width: 30px;  /* Ajuste la largeur de l'icône */
+  height: 30px; /* Ajuste la hauteur de l'icône */
+}
+
+.nav-link.dropdown-toggle:hover {
+  background-color: #333 !important; /* Couleur gris foncé au survol */
+  color: #fff !important; /* Texte blanc */
+}
+
+.dropdown-item:hover {
+  background-color: #444 !important; /* Couleur gris foncé ou noir pour les items du menu */
+  color: #fff !important;
+  transition: 0.3s ease; /* Pour un effet doux */
+}
